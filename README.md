@@ -5,3 +5,4 @@
 |:---:|:----------------------------------------------:|:-------------:|:-------------------------------------------:|
 | 01  |                Calorie Counting                | [Link](Day01) | [Link](http://adventofcode.com/2022/day/1)  |
 | 02  |              Rock Paper Scissors               | [Link](Day02) | [Link](http://adventofcode.com/2022/day/2)  |
+| 03  |            Rucksack Reorganization             | [Link](Day03) | [Link](http://adventofcode.com/2022/day/3)  |
