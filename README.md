@@ -7,3 +7,4 @@
 | 02  |              Rock Paper Scissors               | [Link](Day02) | [Link](http://adventofcode.com/2022/day/2)  |
 | 03  |            Rucksack Reorganization             | [Link](Day03) | [Link](http://adventofcode.com/2022/day/3)  |
 | 04  |                  Camp Cleanup                  | [Link](Day04) | [Link](http://adventofcode.com/2022/day/4)  |
+| 05  |                 Supply Stacks                  | [Link](Day05) | [Link](http://adventofcode.com/2022/day/5)  |
