@@ -8,3 +8,4 @@
 | 03  |            Rucksack Reorganization             | [Link](Day03) | [Link](http://adventofcode.com/2022/day/3)  |
 | 04  |                  Camp Cleanup                  | [Link](Day04) | [Link](http://adventofcode.com/2022/day/4)  |
 | 05  |                 Supply Stacks                  | [Link](Day05) | [Link](http://adventofcode.com/2022/day/5)  |
+| 06  |                 Tuning Trouble                 | [Link](Day06) | [Link](http://adventofcode.com/2022/day/6)  |
