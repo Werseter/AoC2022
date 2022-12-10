@@ -11,3 +11,4 @@
 | 06  |                 Tuning Trouble                 | [Link](Day06) | [Link](http://adventofcode.com/2022/day/6)  |
 | 07  |            No Space Left On Device             | [Link](Day07) | [Link](http://adventofcode.com/2022/day/7)  |
 | 08  |               Treetop Tree House               | [Link](Day08) | [Link](http://adventofcode.com/2022/day/8)  |
+| 09  |                  Rope Bridge                   | [Link](Day09) | [Link](http://adventofcode.com/2022/day/9)  |
